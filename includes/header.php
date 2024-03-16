@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Header New</title>
+    <title>Header New college</title>
 
     <!-- Boxicons CDN Link -->
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
