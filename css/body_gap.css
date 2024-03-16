@@ -1,0 +1,19 @@
+@media screen and (min-width:991px) {
+    .main_bread_crump {
+        margin-top:-4.9rem !important;
+    }
+    .leader-bharath .container{
+        margin-top: -3rem;
+    }
+}
+
+
+@media screen and (min-width:481px) and (max-width:764px){
+    .main_bread_crump {
+        margin-top:1.9rem !important;
+    }
+    .leader-bharath .container{
+        margin-top: -3rem;
+    }
+}
+
